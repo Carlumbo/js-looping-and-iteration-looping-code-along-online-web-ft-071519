@@ -14,5 +14,5 @@ function countDown( count ) {
      console.log( count );
      count -= 1;
    }
-   console.log{ count };
+   console.log( count );
 }
